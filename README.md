@@ -1,2 +1,2 @@
-# elevstor
+# elevator
 atmega32
